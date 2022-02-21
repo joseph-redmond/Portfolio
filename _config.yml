@@ -9,9 +9,7 @@ baseurl:
 # Title of the Site
 title: Joe Redmond Portfolio
 # Description of the Site
-description: Hi, I'm Joseph Redmond (Joe for short). I am a software engineer specializing in the jvm with over 5 years of programming experience.
-  I'm teaching mentees about the world of software engineering and want to help the next generation
-  of developers advance forward. I am available for contract work just send me a message and let's get started.
+description: I have been programming for over 5 years, specializing in the jvm and treat software engineering as a career not a paycheck.
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
