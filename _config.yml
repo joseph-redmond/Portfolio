@@ -4,14 +4,14 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: Portfolio
+baseurl:
 
 # Title of the Site
 title: Joe Redmond Portfolio
 # Description of the Site
 description: I have been programming for over 5 years, specializing in the jvm and treating software engineering as a career not a paycheck.
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /Portfolio/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Java, jvm, software engineer, software engineering, programming, coding, coder, backend developer, developer, fullstack developer, sql developer
 # URL for the Image of custom Favicon
