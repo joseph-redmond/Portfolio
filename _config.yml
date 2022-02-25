@@ -11,7 +11,7 @@ title: Joe Redmond Portfolio
 # Description of the Site
 description: I have been programming for over 5 years, specializing in the jvm and treating software engineering as a career not a paycheck.
 # URL of Image of the Site
-site-image: /Portfolio/assets/images/meta.jpg
+site-image: /assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Java, jvm, software engineer, software engineering, programming, coding, coder, backend developer, developer, fullstack developer, sql developer
 # URL for the Image of custom Favicon
@@ -43,7 +43,7 @@ disqus-shortname: joseph-redmond
 # Name of the Author
 author-name: Joe Redmond
 # URL for the Image of the Author
-author-image: /Portfolio/assets/images/bio-photo.jpg
+author-image: /assets/images/bio-photo.jpg
 # 60 Words About the Author
 author-about: Hi, I'm Joseph Redmond (Joe for short). I am a software engineer specializing in the jvm with over 5 years of programming experience.
   I'm teaching mentees about the world of software engineering and want to help the next generation
